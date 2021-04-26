@@ -1,0 +1,276 @@
+body {
+background-color: #EEEEEE;
+font-family: Barlow Semi Condensed, sans-serif;
+font-size: 105%;
+text-align: inherit;
+}
+.main {
+  background-color: blue;
+}
+.logo {
+  border-radius: 10%;
+  height: 175px;
+  width: 250px;
+  position: absolute;
+  left:500px;
+}
+.tagline{
+  font-family: Antonio, sans-serif;
+  position: absolute;
+  top: 200px;
+  left: 325px;
+}
+
+.Tag2 {
+  font-family: Rubik, sans-serif;
+  font-size: 16px;
+  color: #9b9797;
+position: absolute;
+left: 400px;
+top: 250px;
+cursor: pointer;
+}
+.Tag2:hover{
+  color: black;
+}
+.Tag3 {
+  font-family: Rubik, sans-serif;
+  font-size: 16px;
+  color: #9b9797;
+position: absolute;
+left: 470px;
+top: 250px;
+cursor: pointer;
+}
+.Tag3:hover{
+  color: black;
+}
+.Tag4 {
+  font-family: Rubik, sans-serif;
+  font-size: 16px;
+  color: #9b9797;
+position: absolute;
+left: 670px;
+top: 250px;
+cursor: pointer;
+}
+.Tag4:hover{
+  color: black;
+}
+.Tag5 {
+  font-family: Rubik, sans-serif;
+  font-size: 16px;
+  color: #9b9797;
+position: absolute;
+left: 760px;
+top: 250px;
+cursor: pointer;
+}
+.Tag5:hover{
+  color: black;
+}
+.Tag6 {
+  font-family: Rubik, sans-serif;
+  font-size: 16px;
+  color: #9b9797;
+position: absolute;
+left: 885px;
+top: 250px;
+cursor: pointer;
+}
+.Tag6:hover{
+  color: black;
+}
+.Tag7 {
+  font-family: Rubik, sans-serif;
+  font-size: 16px;
+  color: #9b9797;
+position: absolute;
+left: 910px;
+top: 250px;
+cursor: pointer;
+}
+.Tag7:hover{
+  color: black;
+}
+.bottom-container {
+  position: absolute;
+  text-align: center;
+  left: 500px;
+  top: 850px;
+  font-family: Antonio;
+}
+.bottom-container1 {
+  position: absolute;
+  text-align: center;
+  left: 500px;
+  top: 1150px;
+  font-family: Antonio;
+}
+.bottom-container2 {
+  position: absolute;
+  text-align: center;
+  left: 500px;
+  top: 700px;
+  font-family: Antonio;
+}
+.bottom-container3 {
+  position: absolute;
+  text-align: center;
+  left: 500px;
+  top: 1900px;
+  font-family: Antonio;
+}
+.footer-link {
+  height: 20px;
+  width: 20px;
+  border-radius: 10%;
+}
+.Homeimage {
+  height: 500px;
+  width: 750px;
+  border-radius: -5px;
+  position: absolute;
+  top: 300px;
+}
+.Homepara {
+color: Grey;
+background-color: white;
+height: 500px;
+width: 450px;
+border-radius: 3%;
+position: absolute;
+top: 300px;
+left: 770px;
+}
+
+.Edupara {
+color: Grey;
+background-color: white;
+height: 400px;
+width: 800px;
+border-radius: 3%;
+position: absolute;
+top: 310px;
+left: 30px;
+
+}
+.Parah2 {
+  position: absolute;
+  top: 10px;
+  left: 175px;
+  font-size: 2rem;
+}
+.Parah3 {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  font-size: 1.8rem;
+}
+.Eduimg {
+  border: solid black;
+  border-width: 5px;
+  position: relative;
+top: 300px;
+left: 830px;
+  border-radius: 2%;
+  height: 390px;
+  width: 330px;
+}
+.Education {
+  font-family: Antonio, sans-serif;
+  background-color: white;
+  position: relative;
+  top: 300px;
+  left: 20px;
+  width: 1160px;
+  border-radius: 5px;
+}
+.Skill-list {
+    border-radius: 2%;
+  font-family: Antonio, sans-serif;
+  background-color: white;
+  position: relative;
+  top: 300px;
+  height: 350px;
+}
+.techskills {
+  position: absolute;
+  left: 200px;
+}
+.personalskills {
+  position: absolute;
+  left: 700px;
+}
+.Rec {
+  position: relative;
+  top: 300px;
+  height: 900px;
+  width: 500px;
+}
+.Mainrec {
+  width: 400px;
+  height: 550px;
+  background-color: black;
+  border-radius: -5px;
+  position: relative;
+  top: 290px;
+  display: inline-block;
+  left: 10px;
+}
+.Mainrec1 {
+    width: 400px;
+    height: 550px;
+    background-color: black;
+    border-radius: -5px;
+    position: relative;
+    top: 290px;
+    left: 10px;
+    display: inline-block;
+}
+.Mainrec2 {
+    width: 400px;
+    height: 550px;
+    background-color: black;
+    border-radius: -5px;
+    position: relative;
+    top: 290px;
+    left: 10px;
+    display: inline-block;
+}
+.Rec1 {
+  position: relative;
+  left: 10px;
+  top: 10px;
+  display: inline-block;
+}
+.Int1 {
+  position: relative;
+  top: 270px;
+  text-align: center;
+  font-size: 2rem;
+}
+.Interest {
+  position: relative;
+  top: 250px;
+}
+.Int2 {
+  position: relative;
+  top: 250px;
+  text-align: center;
+  font-size: 2rem;
+}
+.Interest1 {
+  position: relative;
+  top: 250px;
+}
+.Int3 {
+  position: relative;
+  top: 250px;
+  text-align: center;
+  font-size: 2rem;
+}
+.Interest2 {
+  position: relative;
+  top: 250px;
+}
