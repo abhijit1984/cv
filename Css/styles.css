@@ -9,25 +9,25 @@ text-align: inherit;
 }
 .logo {
   border-radius: 10%;
-  height: 175px;
-  width: 250px;
+  height: 10.9375rem;
+  width: 15.625rem;
   position: absolute;
-  left:500px;
+  left:31.25rem;
 }
 .tagline{
   font-family: Antonio, sans-serif;
   position: absolute;
-  top: 200px;
-  left: 325px;
+  top: 12.5rem;
+  left: 20.3125rem;
 }
 
 .Tag2 {
   font-family: Rubik, sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   color: #9b9797;
 position: absolute;
-left: 400px;
-top: 250px;
+left: 25rem;
+top: 15.625rem;
 cursor: pointer;
 }
 .Tag2:hover{
@@ -35,11 +35,11 @@ cursor: pointer;
 }
 .Tag3 {
   font-family: Rubik, sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   color: #9b9797;
 position: absolute;
-left: 470px;
-top: 250px;
+left: 29.375rem;
+top: 15.625rem;
 cursor: pointer;
 }
 .Tag3:hover{
@@ -47,11 +47,11 @@ cursor: pointer;
 }
 .Tag4 {
   font-family: Rubik, sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   color: #9b9797;
 position: absolute;
-left: 670px;
-top: 250px;
+left: 41.875rem;
+top: 15.625rem;
 cursor: pointer;
 }
 .Tag4:hover{
@@ -59,11 +59,11 @@ cursor: pointer;
 }
 .Tag5 {
   font-family: Rubik, sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   color: #9b9797;
 position: absolute;
-left: 760px;
-top: 250px;
+left: 47.5rem;
+top: 15.625rem;
 cursor: pointer;
 }
 .Tag5:hover{
@@ -71,11 +71,11 @@ cursor: pointer;
 }
 .Tag6 {
   font-family: Rubik, sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   color: #9b9797;
 position: absolute;
-left: 885px;
-top: 250px;
+left: 55.3125rem;
+top: 15.625rem;
 cursor: pointer;
 }
 .Tag6:hover{
@@ -83,11 +83,11 @@ cursor: pointer;
 }
 .Tag7 {
   font-family: Rubik, sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   color: #9b9797;
 position: absolute;
-left: 910px;
-top: 250px;
+left: 56.875rem;
+top: 15.625rem;
 cursor: pointer;
 }
 .Tag7:hover{
@@ -96,95 +96,95 @@ cursor: pointer;
 .bottom-container {
   position: absolute;
   text-align: center;
-  left: 500px;
-  top: 850px;
+  left: 31.25rem;
+  top: 53.125rem;
   font-family: Antonio;
 }
 .bottom-container1 {
   position: absolute;
   text-align: center;
-  left: 500px;
-  top: 1150px;
+  left: 31.25rem;
+  top: 71.875rem;
   font-family: Antonio;
 }
 .bottom-container2 {
   position: absolute;
   text-align: center;
-  left: 500px;
-  top: 700px;
+  left: 31.25rem;
+  top: 43.75rem;
   font-family: Antonio;
 }
 .bottom-container3 {
   position: absolute;
   text-align: center;
-  left: 500px;
-  top: 1900px;
+  left: 31.25rem;
+  top: 118.75rem;
   font-family: Antonio;
 }
 .footer-link {
-  height: 20px;
-  width: 20px;
+  height: 1.25rem;
+  width: 1.25rem;
   border-radius: 10%;
 }
 .Homeimage {
-  height: 500px;
-  width: 750px;
-  border-radius: -5px;
+  height: 31.25rem;
+  width: 46.875rem;
+  border-radius: -0.3125rem;
   position: absolute;
-  top: 300px;
+  top: 18.75rem;
 }
 .Homepara {
 color: Grey;
 background-color: white;
-height: 500px;
-width: 450px;
+height: 31.25rem;
+width: 28.125rem;
 border-radius: 3%;
 position: absolute;
-top: 300px;
-left: 770px;
+top: 18.75rem;
+left: 48.125rem;
 }
 
 .Edupara {
 color: Grey;
 background-color: white;
-height: 400px;
-width: 800px;
+height: 25rem;
+width: 50rem;
 border-radius: 3%;
 position: absolute;
-top: 310px;
-left: 30px;
+top: 19.375rem;
+left: 1.875rem;
 
 }
 .Parah2 {
   position: absolute;
-  top: 10px;
-  left: 175px;
+  top: 0.625rem;
+  left: 10.9375rem;
   font-size: 2rem;
 }
 .Parah3 {
   position: absolute;
-  top: 10px;
-  left: 20px;
+  top: 0.625rem;
+  left: 1.25rem;
   font-size: 1.8rem;
 }
 .Eduimg {
   border: solid black;
-  border-width: 5px;
+  border-width: 0.3125rem;
   position: relative;
-top: 300px;
-left: 830px;
+top: 18.75rem;
+left: 51.875rem;
   border-radius: 2%;
-  height: 390px;
-  width: 330px;
+  height: 24.375rem;
+  width: 20.625rem;
 }
 .Education {
   font-family: Antonio, sans-serif;
   background-color: white;
   position: relative;
-  top: 300px;
-  left: 20px;
-  width: 1160px;
-  border-radius: 5px;
+  top: 18.75rem;
+  left: 1.25rem;
+  width: 72.5rem;
+  border-radius: 0.3125rem;
 }
 .Skill-list {
     border-radius: 2%;
@@ -196,81 +196,81 @@ left: 830px;
 }
 .techskills {
   position: absolute;
-  left: 200px;
+  left: 12.5rem;
 }
 .personalskills {
   position: absolute;
-  left: 700px;
+  left: 43.75rem;
 }
 .Rec {
   position: relative;
-  top: 300px;
-  height: 900px;
-  width: 500px;
+  top: 18.75rem;
+  height: 56.25rem;
+  width: 31.25rem;
 }
 .Mainrec {
-  width: 400px;
-  height: 550px;
+  width: 25rem;
+  height: 34.375rem;
   background-color: black;
-  border-radius: -5px;
+  border-radius: -0.3125rem;
   position: relative;
-  top: 290px;
+  top: 18.125rem;
   display: inline-block;
-  left: 10px;
+  left: 0.625rem;
 }
 .Mainrec1 {
-    width: 400px;
-    height: 550px;
+    width: 25rem;
+    height: 34.375rem;
     background-color: black;
-    border-radius: -5px;
+    border-radius: 0.3125rem;
     position: relative;
-    top: 290px;
-    left: 10px;
+    top: 18.125rem;
+    left: 0.625rem;
     display: inline-block;
 }
 .Mainrec2 {
-    width: 400px;
-    height: 550px;
+    width: 25rem;
+    height: 34.375rem;
     background-color: black;
-    border-radius: -5px;
+    border-radius: -0.3125rem;
     position: relative;
-    top: 290px;
-    left: 10px;
+    top: 18.125rem;
+    left: 0.625rem;
     display: inline-block;
 }
 .Rec1 {
   position: relative;
-  left: 10px;
-  top: 10px;
+  left: 0.625rem;
+  top: 0.625rem;
   display: inline-block;
 }
 .Int1 {
   position: relative;
-  top: 270px;
+  top: 16.875rem;
   text-align: center;
   font-size: 2rem;
 }
 .Interest {
   position: relative;
-  top: 250px;
+  top: 15.625rem;
 }
 .Int2 {
   position: relative;
-  top: 250px;
+  top: 15.625rem;
   text-align: center;
   font-size: 2rem;
 }
 .Interest1 {
   position: relative;
-  top: 250px;
+  top: 15.625rem;
 }
 .Int3 {
   position: relative;
-  top: 250px;
+  top: 15.625rem;
   text-align: center;
   font-size: 2rem;
 }
 .Interest2 {
   position: relative;
-  top: 250px;
+  top: 15.625rem;
 }
